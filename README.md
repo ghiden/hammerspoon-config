@@ -6,3 +6,7 @@ https://www.hammerspoon.org/
 
 Just symlink and reload the config.
 
+## Commands
+
+- Duplicate Chrome tab: CMD OPT =
+
